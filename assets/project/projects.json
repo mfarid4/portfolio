@@ -1,0 +1,22 @@
+[{
+    "name" : "Color Picker",
+    "desc" : "An app to get the most dominant color for an image.",
+    "live" : "https://mfarid4.github.io/colorpicker",
+    "repo" : "https://github.com/mfarid4/colorpicker",
+    "icon" : "../../colorpicker/images/colorPicker.svg",
+    "img"  : "../../colorpicker/images/colorPickerBase.png"
+},{
+    "name" : "String Binary Conversion",
+    "desc" : "A simple program to convert binary to string and vice versa",
+    "live" : "",
+    "repo" : "https://github.com/mfarid4/string-binary-conversion",
+    "icon" : "../../string-binary-conversion/images/string-binary-conversion.svg",
+    "img"  : "../../string-binary-conversion/images/string-binary-conversionBase1.png"
+},{
+    "name" : "TicTacToe",
+    "desc" : "An app to play tictactoe game against AI or another player.",
+    "live" : "https://mfarid4.github.io/tictactoe",
+    "repo" : "https://github.com/mfarid4/tictactoe",
+    "icon" : "../../tictactoe/images/tictactoe.svg",
+    "img"  : "../../tictactoe/images/tictactoeBase.png"
+}]
